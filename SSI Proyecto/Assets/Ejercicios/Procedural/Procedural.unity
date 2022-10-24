@@ -236,7 +236,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   branchPrefab: {fileID: 820110519072457976, guid: e4b9daf3f4f0d5d4aa1d6bfa60c38335, type: 3}
-  totalNodes: 5
+  totalNodes: 7
 --- !u!4 &1630228327
 Transform:
   m_ObjectHideFlags: 0
